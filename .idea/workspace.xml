@@ -5,6 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56b6f427-743a-436b-93a5-6b26e505b168" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/applicationproduct/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/applicationproduct/controller/utils/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/applicationproduct/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/applicationproduct/exceptionhandler/MessageExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/applicationproduct/exceptionhandler/ProductControllerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/applicationproduct/exceptionhandler/ProductNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/applicationproduct/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/applicationproduct/services/ProductService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../compra/src/main/java/com/mscompra/controller/PedidoController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../compra/src/main/java/com/mscompra/controller/exceptionhandler/MsCompraExceptionHandler.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../compra/src/main/java/com/mscompra/controller/exceptionhandler/Problem.java" afterDir="false" />
@@ -29,7 +38,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -96,6 +105,7 @@
       <workItem from="1652497483398" duration="529000" />
       <workItem from="1652538254691" duration="14305000" />
       <workItem from="1652641981343" duration="4518000" />
+      <workItem from="1652647086152" duration="277000" />
     </task>
     <servers />
   </component>

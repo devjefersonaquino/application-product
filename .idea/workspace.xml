@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56b6f427-743a-436b-93a5-6b26e505b168" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../compra/src/main/java/com/mscompra/controller/PedidoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../compra/src/main/java/com/mscompra/controller/exceptionhandler/MsCompraExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../compra/src/main/java/com/mscompra/controller/exceptionhandler/Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../compra/src/main/java/com/mscompra/controller/exceptionhandler/ProblemType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../compra/src/main/java/com/mscompra/model/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../compra/src/main/java/com/mscompra/repository/PedidoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../compra/src/main/java/com/mscompra/service/PedidoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../compra/src/main/resources/application-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../compra/src/main/resources/messages.proprierties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="298Ww0hIsm6T2cQj64qDwWQ0ydA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jefersonaquino/Projects/Software/application-product&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.70427555&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Java&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;82bcc4f391e9f026e06587090b1a7100&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ApplicationProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="application-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.applicationproduct.ApplicationProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56b6f427-743a-436b-93a5-6b26e505b168" name="Changes" comment="" />
+      <created>1652495429249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652495429249</updated>
+      <workItem from="1652495431437" duration="651000" />
+      <workItem from="1652496284598" duration="1002000" />
+      <workItem from="1652497483398" duration="529000" />
+      <workItem from="1652538254691" duration="14305000" />
+      <workItem from="1652641981343" duration="4518000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

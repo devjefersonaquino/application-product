@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56b6f427-743a-436b-93a5-6b26e505b168" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/applicationproduct/controller/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/applicationproduct/controller/utils/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/applicationproduct/entity/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/applicationproduct/exceptionhandler/MessageExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/applicationproduct/exceptionhandler/ProductControllerAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/applicationproduct/exceptionhandler/ProductNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/applicationproduct/repository/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/applicationproduct/services/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TesteGordao/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../compra/src/main/java/com/mscompra/controller/PedidoController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../compra/src/main/java/com/mscompra/controller/exceptionhandler/MsCompraExceptionHandler.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../compra/src/main/java/com/mscompra/controller/exceptionhandler/Problem.java" afterDir="false" />
@@ -23,6 +15,13 @@
       <change afterPath="$PROJECT_DIR$/../compra/src/main/java/com/mscompra/service/PedidoService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../compra/src/main/resources/application-test.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../compra/src/main/resources/messages.proprierties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-product.iml" beforeDir="false" afterPath="$PROJECT_DIR$/application-product.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -72,7 +71,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.70427555&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;82bcc4f391e9f026e06587090b1a7100&quot;
   }
 }</component>
@@ -106,6 +105,12 @@
       <workItem from="1652538254691" duration="14305000" />
       <workItem from="1652641981343" duration="4518000" />
       <workItem from="1652647086152" duration="999000" />
+      <workItem from="1652740945916" duration="839000" />
+      <workItem from="1652741815069" duration="114000" />
+      <workItem from="1652741967019" duration="255000" />
+      <workItem from="1652742255920" duration="41000" />
+      <workItem from="1652743636857" duration="1279000" />
+      <workItem from="1652828777857" duration="695000" />
     </task>
     <servers />
   </component>
